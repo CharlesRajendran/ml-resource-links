@@ -105,7 +105,10 @@
 	- [Get a 2–6x speed-up on your data pre-processing with python](https://towardsdatascience.com/heres-how-you-can-get-a-2-6x-speed-up-on-your-data-pre-processing-with-python-847887e63be5)
 <a name="security"> </a>
 - #### Security
+<a name="model-selection"> </a>
+- #### Model Selection
 <a name="intepretation"> </a>
 - #### Model Intepretation
+	- [Multi-Class Text Classification Model Comparison and Selection](https://towardsdatascience.com/multi-class-text-classification-model-comparison-and-selection-5eb066197568)
 <a name="best-practices"> </a>
 - #### Best Practices
