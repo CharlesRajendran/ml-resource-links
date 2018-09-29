@@ -33,6 +33,7 @@
 	 - [Deployments](#deployments)
 	 - [Performance](#performance)
 	 - [Security](#security)
+	 - [Model Selection and Cross Validation](#model-selection)
 	 - [Model Interpretation](#intepretation)
 	 - [Best Practices](#best-practices)
 
@@ -107,8 +108,8 @@
 - #### Security
 <a name="model-selection"> </a>
 - #### Model Selection
+	- [Multi-Class Text Classification Model Comparison and Selection](https://towardsdatascience.com/multi-class-text-classification-model-comparison-and-selection-5eb066197568)
 <a name="intepretation"> </a>
 - #### Model Intepretation
-	- [Multi-Class Text Classification Model Comparison and Selection](https://towardsdatascience.com/multi-class-text-classification-model-comparison-and-selection-5eb066197568)
 <a name="best-practices"> </a>
 - #### Best Practices
