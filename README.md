@@ -22,6 +22,7 @@
  - [Transfer Learning](#transfer-learning)
  - [Ensemble Learning](#ensemble-learning)
  - [Reinforcement Learning](#reinforcement-learning)
+ - [Optimization](#optimization)
  - [Libraries](#libs)
 	 - [Tensorflow](#tensorflow)
 	 - [Keras](#keras)
@@ -82,6 +83,8 @@
 ## Ensemble Learning
 <a name="reinforcement-learning"> </a>
 ## Reinforcement Learning
+<a name="optimization"></a>
+## Optimization
 <a name="libs"> </a>
 ## Libraries
 <a name="tensorflow"> </a>
