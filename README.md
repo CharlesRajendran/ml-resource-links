@@ -89,6 +89,7 @@
 - #### Deployments
 <a name="performance"> </a>
 - #### Performance
+	- [Get a 2–6x speed-up on your data pre-processing with python](https://towardsdatascience.com/heres-how-you-can-get-a-2-6x-speed-up-on-your-data-pre-processing-with-python-847887e63be5)
 <a name="security"> </a>
 - #### Security
 <a name="intepretation"> </a>
