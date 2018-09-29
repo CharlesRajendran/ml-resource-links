@@ -23,6 +23,7 @@
  - [Ensemble Learning](#ensemble-learning)
  - [Reinforcement Learning](#reinforcement-learning)
  - [Optimization](#optimization)
+ - [Data Visualization](#visualization)
  - [Libraries](#libs)
 	 - [Tensorflow](#tensorflow)
 	 - [Keras](#keras)
@@ -85,6 +86,8 @@
 ## Reinforcement Learning
 <a name="optimization"></a>
 ## Optimization
+<a name="visualization"></a>
+## Data Visualization
 <a name="libs"> </a>
 ## Libraries
 <a name="tensorflow"> </a>
