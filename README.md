@@ -107,7 +107,7 @@
 <a name="security"> </a>
 - #### Security
 <a name="model-selection"> </a>
-- #### Model Selection
+- #### Model Selection and Cross Validation
 	- [Multi-Class Text Classification Model Comparison and Selection](https://towardsdatascience.com/multi-class-text-classification-model-comparison-and-selection-5eb066197568)
 <a name="intepretation"> </a>
 - #### Model Intepretation
