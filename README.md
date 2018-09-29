@@ -57,7 +57,7 @@
 <a name="classification"> </a>
 ### Classification
 <a name="text-classification"> </a>
-- #### Text Classificationwhat
+- #### Text Classification
 <a name="clustering"> </a>
 ### Clustering
 <a name="association-rule"> </a>
