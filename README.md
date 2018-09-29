@@ -3,9 +3,13 @@
  - [Data](#data)
 	 - [Data Collection](#data-collection) 
 	 - [Data Preprocessing](#data-preprocessing)
+ - [Feature Engineering](#feature-engineering)
+ 	- [Feature Selection](#feature-selection)
+	- [Feature Extraction](#feature-extraction)
  - [Algorithms](#algorithms)
 	 - [Regression](#regression)
 	 - [Classification](#classification)
+	 	- [Text Classification](#text-classification)
 	 - [Clustering](#clustering)
 	 - [Association Rule](#association-rule)
  - [Neural Networks](#nn)
@@ -30,6 +34,7 @@
 	 - [Performance](#performance)
 	 - [Security](#security)
 	 - [Model Interpretation](#intepretation)
+	 - [Best Practices](#best-practices)
 
 <a name="data"> </a>
 ## Data
@@ -37,12 +42,20 @@
 - #### Data Collection
 <a name="data-preprocessing"> </a>
 - #### Data Preprocessing
+<a name="feature-engineering"> </a>
+## Feature Engineering
+<a name="feature-selection"> </a>
+- ### Feature Selection
+<a name="feature-extraction"> </a>
+- ### Feature Extraction
 <a name="algorithms"> </a>
 ## Algorithms
 <a name="regression"> </a>
 ### Regression
 <a name="classification"> </a>
 ### Classification
+<a name="text-classification"> </a>
+- #### Text Classificationwhat
 <a name="clustering"> </a>
 ### Clustering
 <a name="association-rule"> </a>
@@ -94,3 +107,5 @@
 - #### Security
 <a name="intepretation"> </a>
 - #### Model Intepretation
+<a name="best-practices"> </a>
+- #### Best Practices
