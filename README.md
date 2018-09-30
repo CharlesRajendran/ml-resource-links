@@ -84,6 +84,7 @@
 ## Ensemble Learning
 <a name="reinforcement-learning"> </a>
 ## Reinforcement Learning
+- [Move 37](https://www.theschool.ai/courses/move-37-course/) - Siraj Raval - Video Series.
 <a name="optimization"></a>
 ## Optimization
 <a name="visualization"></a>
