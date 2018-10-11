@@ -59,6 +59,7 @@
 ### Classification
 <a name="text-classification"> </a>
 - #### Text Classification
+	- [Text classification using the Bag Of Words Approach with NLTK and Scikit Learn](https://www.linkedin.com/pulse/text-classification-using-bag-words-approach-nltk-scikit-rajendran/)
 <a name="clustering"> </a>
 ### Clustering
 <a name="association-rule"> </a>
