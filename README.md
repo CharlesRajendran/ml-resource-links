@@ -125,3 +125,4 @@
 <a name="github-repos"> </a>
 - #### Repos
 	-  [Tensorflow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
+	- [Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
