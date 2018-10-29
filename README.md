@@ -38,6 +38,7 @@
 	 - [Model Selection and Cross Validation](#model-selection)
 	 - [Model Interpretation](#intepretation)
 	 - [Best Practices](#best-practices)
+	 - [Repos](#github-repos)
 
 <a name="data"> </a>
 ## Data
@@ -121,3 +122,6 @@
 - #### Model Intepretation
 <a name="best-practices"> </a>
 - #### Best Practices
+<a name="github-repos"> </a>
+- #### Repos
+	-  [Tensorflow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
